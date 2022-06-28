@@ -104,6 +104,8 @@ find /usr/bin/ -name find -exec /bin/bash -ip \;
 Use the `whoami` command to confirm that privileges for the Bash session have been escalated to the user `shellshock_server`
 
 ## Resources
+- [Kali Download Page](https://www.kali.org/get-kali/)
+- [Vulnerable Virtual Machine]((https://gtvault-my.sharepoint.com/:u:/g/personal/rheavican3_gatech_edu/EVihwYFaVDlChicYIgfXPHIBMLW_kOUUO8sTaJ7b8JLw2A?e=jIvhZ6))
 - [Shellshock CVE](https://nvd.nist.gov/vuln/detail/cve-2014-6271)
 - [Shellshock Exploitation](https://www.infosecarticles.com/exploiting-shellshock-vulnerability/)
 - [Metasploit Shellshock Exploitation](https://null-byte.wonderhowto.com/how-to/exploit-shellshock-web-server-using-metasploit-0186084/)
