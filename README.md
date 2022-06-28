@@ -15,7 +15,7 @@ This repository describes how to exploit the Bash Shellshock vulnerability.
 
 ## Background
 
-Shellshock is the name of a severe GNU Bash vulnerability that was discovered in 2014. The Shellshock vulnerabililty can affect numerous systems and attack vectors. GNU Bash through version 4.3 processes trailing strings after function definitions in environment variable values. This allows attackers to execute arbitrary code by using those external variables. The Shellshock vulnerability affects multiple vectors including the mod_cgi and mod_cgid methods of the Apache HTTP server that display dynamic content on web pages and applications. The Shellshock exploit can be launched either remotely or from a local machine.
+Shellshock is a GNU Bash vulnerability that was discovered in 2014. The Shellshock vulnerabililty can affect numerous systems and attack vectors. GNU Bash through version 4.3 processes trailing strings after function definitions in environment variable values. This allows attackers to execute arbitrary code by using those external variables. The Shellshock vulnerability affects multiple vectors including the mod_cgi and mod_cgid methods of the Apache HTTP server that display dynamic content on web pages and applications. The Shellshock exploit can be launched either remotely or from a local machine.
 
 ## Use Case
 
