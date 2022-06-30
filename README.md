@@ -101,7 +101,7 @@ Navigate to `/usr/bin` and run `ls -la` to identify any programs that use permis
 find /usr/bin/ -name find -exec /bin/bash -ip \;
 ```
 
-Use the `whoami` command to confirm that privileges for the Bash session have been escalated to the user `shellshock_server`
+Use the `whoami` command to confirm that privileges for the Bash session have been escalated to the user `shellshock_server`.
 
 ## Resources
 - [Kali Download Page](https://www.kali.org/get-kali/)
