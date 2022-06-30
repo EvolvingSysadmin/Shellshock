@@ -19,7 +19,7 @@ Shellshock is a GNU Bash vulnerability that was discovered in 2014. The Shellsho
 
 ## Use Case
 
-The Shellshock vulnerability should only be exploited in a research environment. Running the Shellshock exploit enables researches to become better acquainted with common vulnerabilities that should be remediated. Exploiting the Shellshock vulnerability in a research environment can help users become acquainted with penetration testing tools and methods.
+The Shellshock vulnerability should only be exploited in a research environment. Running the Shellshock exploit enables researchers to become better acquainted with common vulnerabilities that should be remediated. Exploiting the Shellshock vulnerability in a research environment can help users become acquainted with penetration testing tools and methods.
 
 ## Prerequisites
 
